@@ -1487,11 +1487,6 @@ D: User Access Administrator
 
 ---
 
----
-
-
----
-
 ## 🎓 Next Steps
 
 Excellent work completing Chapter 2! This was the largest section of the exam.

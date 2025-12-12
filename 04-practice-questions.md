@@ -1096,7 +1096,8 @@ D: Single **Azure** **VM**
 
 💡 **Explanation:** App Service (**PaaS**) provides automatic scaling, **high availability**, and no **VM** management. It's perfect for web apps with variable traffic.
 
----
+</details>
+
 
 ---
 
@@ -1121,7 +1122,6 @@ D: Load Balancer
 
 </details>
 
----
 
 ---
 
@@ -1147,7 +1147,6 @@ D: **Azure** Table Storage
 </details>
 
 
-</details>
 
 ---
 
@@ -1172,7 +1171,8 @@ D: Reduce **VM** sizes
 
 💡 **Explanation:** Deallocating **VMs** releases compute resources and stops compute charges (storage still charged). Simply stopping **VMs** continues charges. Auto-shutdown policies can automate this.
 
----
+</details>
+
 
 ---
 
@@ -1197,7 +1197,6 @@ D: Free tier
 
 </details>
 
----
 
 ---
 
@@ -1223,7 +1222,6 @@ D: **Azure** Advisor
 </details>
 
 
-</details>
 
 ---
 
@@ -1248,7 +1246,8 @@ D: Community cloud
 
 💡 **Explanation:** Hybrid cloud allows sensitive data to remain on-premises while leveraging public cloud for other workloads, meeting both compliance and cloud benefits.
 
----
+</details>
+
 
 ---
 
@@ -1273,7 +1272,6 @@ D: Public internet
 
 </details>
 
----
 
 ---
 
@@ -1299,7 +1297,6 @@ D: **Azure** Migrate
 </details>
 
 
-</details>
 
 ---
 
@@ -1324,7 +1321,8 @@ D: **Azure** Table Storage
 
 💡 **Explanation:** **Cosmos DB** provides turnkey global distribution, single-digit millisecond latency worldwide, and 99.999% availability **SLA** (multi-**region**) - perfect for global applications.
 
----
+</details>
+
 
 ---
 
@@ -1349,7 +1347,6 @@ D: **Azure** **ExpressRoute**
 
 </details>
 
----
 
 ---
 
@@ -1375,7 +1372,6 @@ D: **Azure** Kubernetes Service
 </details>
 
 
-</details>
 
 ---
 
@@ -1400,7 +1396,8 @@ D: Resource Locks
 
 💡 **Explanation:** Conditional Access creates if/then policies based on signals (location, device, user, risk). It can enforce **MFA** when accessing from untrusted locations.
 
----
+</details>
+
 
 ---
 
@@ -1425,7 +1422,6 @@ D: Standard Storage
 
 </details>
 
----
 
 ---
 
@@ -1451,7 +1447,6 @@ D: ReadOnly resource lock
 </details>
 
 
-</details>
 
 ---
 
@@ -1476,7 +1471,8 @@ D: Manual deployment
 
 💡 **Explanation:** ARM Templates (JSON) define infrastructure as code, ensuring consistent, repeatable deployments across all environments. They can be version-controlled and automated.
 
----
+</details>
+
 
 ---
 
@@ -1501,7 +1497,6 @@ D: Resource Locks
 
 </details>
 
----
 
 ---
 
@@ -1527,7 +1522,6 @@ D: Subscriptions
 </details>
 
 
-</details>
 
 ---
 
@@ -1552,7 +1546,8 @@ D: **Azure** Migrate
 
 💡 **Explanation:** TCO Calculator compares total on-premises costs (hardware, power, cooling, facilities, labor) with **Azure** costs to build a business case for migration.
 
----
+</details>
+
 
 ---
 
@@ -1577,7 +1572,6 @@ D: Multi-cloud
 
 </details>
 
----
 
 ---
 
@@ -1603,7 +1597,6 @@ D: Manual upload
 </details>
 
 
-</details>
 
 ---
 
@@ -1628,7 +1621,8 @@ D: **Azure** Advisor
 
 💡 **Explanation:** Application Insights is the APM tool for deep application monitoring, tracking requests, exceptions, dependencies, and performance with built-in analytics.
 
----
+</details>
+
 
 ---
 
@@ -1653,7 +1647,6 @@ D: Service Health
 
 </details>
 
----
 
 ---
 
@@ -1679,7 +1672,6 @@ D: Application Insights
 </details>
 
 
-</details>
 
 ---
 
@@ -1704,7 +1696,8 @@ D: Single **VM** backups
 
 💡 **Explanation:** Region pairs provide disaster recovery across geographically distant regions. Replicating to a paired **region** protects against regional failures.
 
----
+</details>
+
 
 ---
 
@@ -1730,7 +1723,6 @@ D: **Azure** Storage replication
 </details>
 
 
-</details>
 
 ---
 
@@ -1755,7 +1747,8 @@ D: Multiple administrators
 
 💡 **Explanation:** Management Groups organize multiple subscriptions hierarchically, allowing policies and access control to be applied at scale across all subscriptions.
 
----
+</details>
+
 
 ---
 
@@ -1780,7 +1773,6 @@ D: Network Security Groups
 
 </details>
 
----
 
 ---
 
@@ -1805,7 +1797,6 @@ D: Passwordless authentication
 
 </details>
 
----
 
 ---
 
@@ -1829,10 +1820,8 @@ D: **RBAC**
 
 </details>
 
-</details>
-
-
 ---
+
 
 ## Exam Tips and Strategies
 

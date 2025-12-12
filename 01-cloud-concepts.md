@@ -856,8 +856,6 @@ D: Scalability is for storage, **elasticity** is for compute
 ---
 
 
----
-
 ## 🎓 Next Steps
 
 Congratulations on completing Chapter 1! You now understand the fundamental concepts of cloud computing.
