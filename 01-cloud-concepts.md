@@ -637,14 +637,14 @@ C: **IaaS**
 
 D: Serverless
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **IaaS** provides full control over the operating system, middleware, and runtime. **PaaS** and **SaaS** abstract these layers.
 
----
+</details>
 
 
 ---
@@ -660,14 +660,14 @@ C: Data and information
 
 D: Physical **datacenter**
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Customers always own their data regardless of service model. Physical infrastructure is always the provider's responsibility.
 
----
+</details>
 
 
 ---
@@ -683,14 +683,14 @@ C: **SaaS**
 
 D: Hybrid
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Microsoft Teams is a fully managed software application delivered as a service.
 
----
+</details>
 
 
 ---
@@ -706,14 +706,14 @@ C: Converting **CapEx** to **OpEx**
 
 D: Requires large upfront investment
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Cloud computing eliminates large upfront hardware purchases (**CapEx**) and converts to operational expenses (**OpEx**) based on usage.
 
----
+</details>
 
 
 ---
@@ -729,14 +729,14 @@ C: Hybrid cloud
 
 D: Multi-cloud
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Hybrid cloud allows sensitive data to stay on-premises while leveraging public cloud for other workloads.
 
----
+</details>
 
 
 ---
@@ -752,14 +752,14 @@ C: Resources are distributed globally
 
 D: Resources are encrypted
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Elasticity is the automatic and dynamic scaling of resources in response to current demand.
 
----
+</details>
 
 
 ---
@@ -775,14 +775,14 @@ C: **Azure** Stack
 
 D: Hybrid cloud
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **Azure** Stack brings **Azure** services to your on-premises **datacenter**, enabling a true private cloud with **Azure** compatibility.
 
----
+</details>
 
 
 ---
@@ -798,14 +798,14 @@ C: 4.4 hours
 
 D: 1.4 hours
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** 99.9% uptime = 0.1% downtime = 8.76 hours per year. Know common **SLA** percentages for the exam.
 
----
+</details>
 
 
 ---
@@ -821,14 +821,14 @@ C: Shared between **customer** and provider
 
 D: Third-party vendor
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** In **PaaS**, the provider manages the operating system, middleware, and runtime. Customer focuses on applications and data.
 
----
+</details>
 
 
 ---
@@ -844,14 +844,14 @@ C: They are the same thing
 
 D: Scalability is for storage, **elasticity** is for compute
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Elasticity automatically adjusts resources in real-time based on demand. Scalability is the ability to scale but can be manual or scheduled.
 
----
+</details>
 
 ---
 

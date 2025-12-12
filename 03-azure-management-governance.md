@@ -1033,13 +1033,15 @@ C: TCO Calculator
 D: **Azure** Advisor
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Pricing Calculator estimates costs BEFORE deployment. Cost Management tracks actual spending after deployment.
 
----
+</details>
+
 
 
 ---
@@ -1056,13 +1058,15 @@ C: TCO Calculator
 D: **Azure** Advisor
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** TCO (Total Cost of Ownership) Calculator compares on-premises costs vs **Azure** costs to justify migration.
 
----
+</details>
+
 
 
 ---
@@ -1079,13 +1083,15 @@ C: Resource lock
 D: **Azure** Blueprint
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Resource locks (CanNotDelete) prevent deletion even for users with permissions. Locks override **RBAC**.
 
----
+</details>
+
 
 
 ---
@@ -1102,13 +1108,15 @@ C: Service Health
 D: Application Insights
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Advisor provides free personalized recommendations across 5 categories: Reliability, Security, Performance, Cost, Operational Excellence.
 
----
+</details>
+
 
 
 ---
@@ -1125,13 +1133,15 @@ C: **Azure** Policy
 D: Management group
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **Azure** Policy enforces rules about resource configurations, including allowed locations. **RBAC** controls who can do what, not where.
 
----
+</details>
+
 
 
 ---
@@ -1148,13 +1158,15 @@ C: 99.94%
 D: 100%
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Composite **SLA** = 99.95% × 99.99% = 99.94%. Multiply individual SLAs to get composite.
 
----
+</details>
+
 
 
 ---
@@ -1171,13 +1183,15 @@ C: **Azure** Cloud Shell
 D: ARM
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **Azure** CLI uses `az` commands. PowerShell uses `Verb-AzNoun` format. Cloud Shell is the environment, not a command format.
 
----
+</details>
+
 
 
 ---
@@ -1194,13 +1208,15 @@ C: **Azure** Policy
 D: ARM Templates
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **Azure** Arc extends **Azure** management to on-premises and multi-cloud resources.
 
----
+</details>
+
 
 
 ---
@@ -1217,13 +1233,15 @@ C: **Azure** Monitor
 D: **Azure** Advisor
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Service Health shows issues affecting services you use. **Azure** Status shows global health. **Azure** Monitor tracks metrics/logs.
 
----
+</details>
+
 
 
 ---
@@ -1240,13 +1258,15 @@ C: Standard
 D: Professional Direct
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Standard ($100/month) is the first tier with 24/7 phone support. Developer only has business hours email support.
 
----
+</details>
+
 
 
 ---
@@ -1263,13 +1283,15 @@ C: Tags
 D: **Azure** Policy
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Tags allow you to organize and track costs by department, project, or any category for chargeback/showback.
 
----
+</details>
+
 
 
 ---
@@ -1286,13 +1308,15 @@ C: DoNotModify
 D: Protected
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** ReadOnly prevents all modifications and deletions. CanNotDelete allows modifications but prevents deletion.
 
----
+</details>
+
 
 
 ---
@@ -1309,13 +1333,15 @@ C: Define infrastructure as code
 D: Estimate costs
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** ARM templates define **Azure** resources in JSON format for repeatable, consistent deployments (Infrastructure as Code).
 
----
+</details>
+
 
 
 ---
@@ -1332,13 +1358,15 @@ C: Application Insights
 D: Service Health
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Application Insights is the APM (Application Performance Management) component of **Azure** Monitor specifically for web apps.
 
----
+</details>
+
 
 
 ---
@@ -1355,11 +1383,14 @@ C: 4.4 hours
 D: 5 minutes
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** 99.99% = 0.01% downtime = approximately 52.56 minutes per year.
+
+</details>
 
 ---
 

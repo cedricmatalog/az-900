@@ -45,14 +45,14 @@ C: Hybrid cloud
 
 D: Multi-cloud
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Hybrid cloud combines public and private clouds, allowing data and applications to move between them. This is different from multi-cloud, which uses multiple cloud providers but doesn't necessarily include on-premises infrastructure.
 
----
+</details>
 
 
 ---
@@ -68,14 +68,14 @@ C: Upfront payment
 
 D: Enterprise agreement
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Pay-as-you-go converts **CapEx** (large upfront hardware purchases) to **OpEx** (ongoing operational costs based on usage). This is a key benefit of cloud computing.
 
----
+</details>
 
 
 ---
@@ -91,14 +91,14 @@ C: Physical **datacenter**
 
 D: Applications
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** The **cloud provider** always manages the physical infrastructure (**datacenter**, network, hosts). The **customer** always manages data, devices, and accounts. Other components vary by service model.
 
----
+</details>
 
 
 ---
@@ -114,14 +114,14 @@ C: Infrastructure as a Service (**IaaS**)
 
 D: Functions as a Service (FaaS)
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **IaaS** provides maximum control - you manage the OS, middleware, applications, and data. The provider manages only the physical infrastructure. **PaaS** abstracts the OS layer, and **SaaS** abstracts almost everything.
 
----
+</details>
 
 
 ---
@@ -137,14 +137,14 @@ C: Microsoft 365
 
 D: **Azure** Virtual Network
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **Azure** App Service is **PaaS** - you deploy code, **Azure** manages the platform. Virtual Machines are **IaaS**. Microsoft 365 is **SaaS**. Virtual Network is **IaaS** networking.
 
----
+</details>
 
 
 ---
@@ -160,14 +160,14 @@ C: Resources are always at maximum capacity
 
 D: Resources require manual intervention to scale
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Elasticity is the automatic, dynamic scaling of resources in response to demand changes. It differs from **scalability**, which may require manual intervention.
 
----
+</details>
 
 
 ---
@@ -183,14 +183,14 @@ C: Predictability
 
 D: Manageability
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Reliability is the ability to recover from failures and continue functioning. It's enabled through redundancy, failover, and **Azure**'s global infrastructure.
 
----
+</details>
 
 
 ---
@@ -206,14 +206,14 @@ C: Shared between provider and **customer**
 
 D: Third-party vendor
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** In **SaaS**, the provider manages the application infrastructure, but the **customer** manages user identity, accounts, and access permissions (like who can access what in Microsoft 365).
 
----
+</details>
 
 
 ---
@@ -229,14 +229,14 @@ C: Private cloud doesn't require internet
 
 D: Private cloud has no **scalability**
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Private cloud is single-tenant, dedicated exclusively to one organization. It can be on-premises or hosted. Public cloud is multi-tenant with shared resources.
 
----
+</details>
 
 
 ---
@@ -252,14 +252,14 @@ C: Pay only for resources you use
 
 D: Free access to all cloud services
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Consumption-based (pay-as-you-go) means you're charged based on actual usage. Stop using resources, stop paying. This converts **CapEx** to **OpEx**.
 
----
+</details>
 
 
 ---
@@ -277,14 +277,14 @@ C: 3 or more
 
 D: Unlimited
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Availability **zone**-enabled regions have a minimum of 3 physically separate datacenters (zones). Not all regions support availability zones.
 
----
+</details>
 
 
 ---
@@ -300,14 +300,14 @@ C: 99.99%
 
 D: 99.999%
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **VMs** across availability zones get 99.99% **SLA** (highest for **VMs**). Single **VM** with Premium SSD = 99.9%. **VMs** in availability set = 99.95%.
 
----
+</details>
 
 
 ---
@@ -323,14 +323,14 @@ C: Geo-Redundant Storage (GRS)
 
 D: Standard Storage
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** GRS replicates data to a paired **region** hundreds of miles away (6 copies total: 3 local + 3 remote). LRS and ZRS keep data within one **region**.
 
----
+</details>
 
 
 ---
@@ -346,14 +346,14 @@ C: **Azure** Virtual Machines
 
 D: **Azure** App Service
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** AKS is managed Kubernetes for container orchestration. ACI is for simple containers without orchestration. **VMs** and App Service aren't container-focused.
 
----
+</details>
 
 
 ---
@@ -369,14 +369,14 @@ C: **Azure** Functions
 
 D: **Azure** Container Instances
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **Azure** Functions is serverless and event-driven. You pay per execution, not for idle time. It's perfect for short-lived, event-driven tasks.
 
----
+</details>
 
 
 ---
@@ -392,14 +392,14 @@ C: **VPN Gateway** is more expensive
 
 D: **ExpressRoute** only works with Windows
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **ExpressRoute** is a private, dedicated connection. **VPN Gateway** sends encrypted traffic over the public internet. **ExpressRoute** offers higher speeds, lower latency, but costs more.
 
----
+</details>
 
 
 ---
@@ -415,14 +415,14 @@ C: **Azure** Traffic Manager
 
 D: **Azure** Front Door
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Application Gateway operates at Layer 7 (HTTP/HTTPS) and includes WAF. Load Balancer operates at Layer 4 (TCP/UDP). Both Front Door and Application Gateway have WAF, but Application Gateway is the regional option.
 
----
+</details>
 
 
 ---
@@ -438,14 +438,14 @@ C: Cold
 
 D: Archive
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** D
+**Answer:** D
 
 💡 **Explanation:** Archive tier is for rarely accessed data stored 180+ days, with lowest storage cost but hours of retrieval latency. Hot = frequent access, Cool = 30+ days, Cold = 90+ days.
 
----
+</details>
 
 
 ---
@@ -461,14 +461,14 @@ C: Multiple
 
 D: Unlimited
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Each resource must be in exactly one resource group. Resources can interact across groups, but each resource belongs to only one group at a time.
 
----
+</details>
 
 
 ---
@@ -484,14 +484,14 @@ C: **Azure** Database for MySQL
 
 D: **Azure** Table Storage
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **Cosmos DB** is designed for global distribution, low latency (single-digit milliseconds), and supports multiple APIs (SQL, MongoDB, Cassandra, etc.). It's ideal for mission-critical global applications.
 
----
+</details>
 
 
 ---
@@ -507,14 +507,14 @@ C: All resources in the group are deleted
 
 D: Resources remain but are unmanaged
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Deleting a resource group deletes ALL resources within it. This is permanent and immediate. Be very careful with this operation.
 
----
+</details>
 
 
 ---
@@ -530,14 +530,14 @@ C: Conditional Access
 
 D: Passwordless authentication
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **SSO** allows one identity to access multiple applications without repeated login prompts. **MFA** adds security, but **SSO** improves convenience.
 
----
+</details>
 
 
 ---
@@ -553,14 +553,14 @@ C: **Azure** Data Box
 
 D: **Azure** File Sync
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Data Box is a physical device shipped to you for massive offline data transfers when network isn't practical. Microsoft ships it, you load data, ship back, they upload to **Azure**.
 
----
+</details>
 
 
 ---
@@ -576,14 +576,14 @@ C: Passwordless authentication
 
 D: Basic authentication
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Passwordless (Windows Hello, FIDO2 keys, Authenticator app) eliminates password vulnerabilities entirely. **MFA** is more secure than passwords alone, but passwordless is best.
 
----
+</details>
 
 
 ---
@@ -599,14 +599,14 @@ C: Reducing costs
 
 D: Improving application performance
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Region pairs enable disaster recovery with replication to a paired **region** 300+ miles away. Only one **region** in a pair is updated at a time during planned maintenance.
 
----
+</details>
 
 
 ---
@@ -624,14 +624,14 @@ C: TCO Calculator
 
 D: **Azure** Advisor
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Pricing Calculator estimates costs before deployment. Cost Management tracks actual spending after deployment. TCO compares on-premises vs **Azure**.
 
----
+</details>
 
 
 ---
@@ -647,14 +647,14 @@ C: **Azure** Advisor
 
 D: Cost Management
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** TCO (Total Cost of Ownership) Calculator compares on-premises costs (hardware, power, facilities, labor) with **Azure** costs to justify migration.
 
----
+</details>
 
 
 ---
@@ -670,14 +670,14 @@ C: Resource locks
 
 D: Management groups
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Resource locks (CanNotDelete or ReadOnly) prevent deletion or modification even for users with permissions. Locks override **RBAC**.
 
----
+</details>
 
 
 ---
@@ -693,14 +693,14 @@ C: **RBAC**
 
 D: Resource locks
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **Azure** Policy enforces rules and compliance on resource configurations. It can prevent creation of non-compliant resources or audit existing ones.
 
----
+</details>
 
 
 ---
@@ -716,14 +716,14 @@ C: They are the same thing
 
 D: Policy is older than **RBAC**
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **RBAC** = WHO can do WHAT (authorization). Policy = WHAT resource configurations are allowed (compliance). They work together but serve different purposes.
 
----
+</details>
 
 
 ---
@@ -739,14 +739,14 @@ C: DoNotModify
 
 D: Protected
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** CanNotDelete allows read and modify operations but prevents deletion. ReadOnly prevents all modifications and deletions.
 
----
+</details>
 
 
 ---
@@ -762,14 +762,14 @@ C: **Azure** Advisor
 
 D: Application Insights
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Advisor provides free recommendations across 5 categories: Reliability, Security, Performance, Cost, and Operational Excellence. It's like a personalized cloud consultant.
 
----
+</details>
 
 
 ---
@@ -785,14 +785,14 @@ C: Bash
 
 D: ARM
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** PowerShell uses `Verb-AzNoun` format (e.g., `Get-AzVM`). **Azure** CLI uses `az group command` format (e.g., `az vm list`).
 
----
+</details>
 
 
 ---
@@ -808,14 +808,14 @@ C: Store data
 
 D: Control costs
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** ARM is the deployment and management layer that all tools (Portal, CLI, PowerShell, SDKs) use. It provides consistent management APIs and enables features like **RBAC**, tags, and templates.
 
----
+</details>
 
 
 ---
@@ -831,14 +831,14 @@ C: **Azure** Arc
 
 D: **Azure** Migrate
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **Azure** Arc allows you to manage on-premises servers, Kubernetes clusters, and resources in other clouds using **Azure** tools, policies, and **RBAC**.
 
----
+</details>
 
 
 ---
@@ -854,14 +854,14 @@ C: Monitor applications
 
 D: Improve security
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** ARM templates (JSON) enable Infrastructure as Code - consistent, repeatable deployments, version control, and automation. They reduce errors and ensure identical environments.
 
----
+</details>
 
 
 ---
@@ -877,14 +877,14 @@ C: Application Insights
 
 D: Alerts
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Application Insights is the APM (Application Performance Management) component for monitoring live web applications, detecting anomalies, and analyzing usage.
 
----
+</details>
 
 
 ---
@@ -900,14 +900,14 @@ C: Kusto Query Language (KQL)
 
 D: Python
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Log Analytics uses KQL (Kusto Query Language) to query and analyze log data from various sources.
 
----
+</details>
 
 
 ---
@@ -923,14 +923,14 @@ C: **Azure** Monitor
 
 D: **Azure** Advisor
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Service Health provides personalized views of health for services and regions you use. **Azure** Status shows global service health (not personalized).
 
----
+</details>
 
 
 ---
@@ -946,14 +946,14 @@ C: The highest **SLA** among services used
 
 D: The lowest **SLA** among services used
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Composite **SLA** = SLA₁ × SLA₂ × SLA₃. For example: 99.95% × 99.99% = 99.94%. More dependencies generally mean lower overall **SLA**.
 
----
+</details>
 
 
 ---
@@ -969,14 +969,14 @@ C: Standard
 
 D: Professional Direct
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Standard ($100/month) provides 24/7 technical support via email and phone. Developer only offers business hours email support. Basic has no technical support.
 
----
+</details>
 
 
 ---
@@ -992,14 +992,14 @@ C: 4.4 hours
 
 D: 3.65 days
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** 99.9% uptime = 0.1% downtime = ~8.76 hours per year, or ~43.2 minutes per month.
 
----
+</details>
 
 
 ---
@@ -1015,14 +1015,14 @@ C: Subscriptions
 
 D: Management groups
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Tags are name-value pairs for organizing resources and tracking costs. They enable chargeback/showback by department, project, environment, etc.
 
----
+</details>
 
 
 ---
@@ -1038,14 +1038,14 @@ C: Monitor resource health
 
 D: Estimate costs
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Blueprints bundle together resource templates, policies, role assignments, and resource groups for rapid, compliant environment deployment with versioning.
 
----
+</details>
 
 
 ---
@@ -1061,14 +1061,14 @@ C: **Azure** Monitor
 
 D: **Azure** Advisor
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Microsoft Purview provides data discovery, classification, lineage, and governance across hybrid and multi-cloud environments.
 
----
+</details>
 
 
 ---
@@ -1089,10 +1089,10 @@ C: On-premises servers
 
 D: Single **Azure** **VM**
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** App Service (**PaaS**) provides automatic scaling, **high availability**, and no **VM** management. It's perfect for web apps with variable traffic.
 
@@ -1111,11 +1111,15 @@ C: Region Pairs
 D: Load Balancer
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** Availability zones are physically separate datacenters within a **region**, providing the highest **SLA** (99.99%) for protection against **datacenter** failures.
+
+</details>
 
 ---
 
@@ -1132,14 +1136,18 @@ C: **Azure** Queue Storage
 D: **Azure** Table Storage
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** **Blob Storage** is object storage designed for files, images, videos, and unstructured data. It's scalable and cost-effective for this use case.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1157,10 +1165,10 @@ C: Delete the **VMs** daily
 
 D: Reduce **VM** sizes
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Deallocating **VMs** releases compute resources and stops compute charges (storage still charged). Simply stopping **VMs** continues charges. Auto-shutdown policies can automate this.
 
@@ -1179,11 +1187,15 @@ C: Reserved Instances (1 or 3 year)
 D: Free tier
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** Reserved instances save up to 72% for committed workloads running continuously. Spot **VMs** are cheaper but can be evicted. Pay-as-you-go has no discount.
+
+</details>
 
 ---
 
@@ -1200,14 +1212,18 @@ C: TCO Calculator
 D: **Azure** Advisor
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** Cost Management tracks actual spending, provides cost analysis, sets budgets with alerts, and offers optimization recommendations.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1225,10 +1241,10 @@ C: Hybrid cloud
 
 D: Community cloud
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Hybrid cloud allows sensitive data to remain on-premises while leveraging public cloud for other workloads, meeting both compliance and cloud benefits.
 
@@ -1247,11 +1263,15 @@ C: **Azure** **ExpressRoute**
 D: Public internet
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** **ExpressRoute** provides a private, dedicated connection that doesn't traverse the internet, offering better security, performance, and reliability for sensitive data.
+
+</details>
 
 ---
 
@@ -1268,14 +1288,18 @@ C: **Azure** Arc
 D: **Azure** Migrate
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** **Azure** Arc extends **Azure** management, governance, and policies to on-premises servers, allowing unified management across hybrid environments.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1293,10 +1317,10 @@ C: **Azure** Database for MySQL
 
 D: **Azure** Table Storage
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **Cosmos DB** provides turnkey global distribution, single-digit millisecond latency worldwide, and 99.999% availability **SLA** (multi-**region**) - perfect for global applications.
 
@@ -1315,11 +1339,15 @@ C: **Azure** **VPN Gateway**
 D: **Azure** **ExpressRoute**
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** **Azure** Front Door is a global load balancer with integrated CDN, providing fast content delivery worldwide with caching at edge locations.
+
+</details>
 
 ---
 
@@ -1336,14 +1364,18 @@ C: **Azure** Functions
 D: **Azure** Kubernetes Service
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** **Azure** Functions is serverless and event-driven, perfect for variable workloads. It automatically scales and you pay only per execution, ideal for spiky order processing.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1361,10 +1393,10 @@ C: **RBAC**
 
 D: Resource Locks
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Conditional Access creates if/then policies based on signals (location, device, user, risk). It can enforce **MFA** when accessing from untrusted locations.
 
@@ -1383,11 +1415,15 @@ C: GRS (Geo-Redundant Storage)
 D: Standard Storage
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** GRS replicates data to a paired **region** hundreds of miles away, protecting against regional disasters. This ensures business continuity and data protection.
+
+</details>
 
 ---
 
@@ -1404,14 +1440,18 @@ C: CanNotDelete resource lock
 D: ReadOnly resource lock
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** CanNotDelete lock prevents deletion while still allowing reads and modifications. This protects critical resources from accidental deletion regardless of user permissions.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1429,10 +1469,10 @@ C: **Azure** CLI scripts only
 
 D: Manual deployment
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** ARM Templates (JSON) define infrastructure as code, ensuring consistent, repeatable deployments across all environments. They can be version-controlled and automated.
 
@@ -1451,11 +1491,15 @@ C: **RBAC**
 D: Resource Locks
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** **Azure** Policy can require specific tags on resources. It can deny deployment of resources without required tags or automatically append tags.
+
+</details>
 
 ---
 
@@ -1472,14 +1516,18 @@ C: **Azure** Blueprints
 D: Subscriptions
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** Blueprints package ARM templates, policies, and **RBAC** assignments together for rapid deployment of fully compliant environments with versioning and tracking.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1497,10 +1545,10 @@ C: **Azure** Cost Management
 
 D: **Azure** Migrate
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** TCO Calculator compares total on-premises costs (hardware, power, cooling, facilities, labor) with **Azure** costs to build a business case for migration.
 
@@ -1519,11 +1567,15 @@ C: Hybrid cloud
 D: Multi-cloud
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** Hybrid cloud allows gradual migration with some workloads in **Azure** and others on-premises, connected together, providing flexibility during transition.
+
+</details>
 
 ---
 
@@ -1540,14 +1592,18 @@ C: **Azure** Storage Explorer
 D: Manual upload
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** **Azure** Data Box is a physical device for massive offline data transfers when network transfer isn't practical. Microsoft ships it, you load data, ship back, they upload.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1565,10 +1621,10 @@ C: Service Health
 
 D: **Azure** Advisor
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Application Insights is the APM tool for deep application monitoring, tracking requests, exceptions, dependencies, and performance with built-in analytics.
 
@@ -1587,11 +1643,15 @@ C: **Azure** Advisor
 D: Service Health
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** Log Analytics allows querying logs using KQL (Kusto Query Language) to analyze patterns, troubleshoot issues, and create custom visualizations.
+
+</details>
 
 ---
 
@@ -1608,14 +1668,18 @@ C: **Azure** Advisor
 D: Application Insights
 
 
----
 
-✅ **Answer:** C
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** C
 
 💡 **Explanation:** **Azure** Advisor provides personalized recommendations across 5 categories including Performance and Cost, analyzing your resources and suggesting improvements.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1633,10 +1697,10 @@ C: Region Pairs with geo-replication
 
 D: Single **VM** backups
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Region pairs provide disaster recovery across geographically distant regions. Replicating to a paired **region** protects against regional failures.
 
@@ -1655,14 +1719,18 @@ C: Manual snapshots only
 D: **Azure** Storage replication
 
 
----
 
-✅ **Answer:** A
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** A
 
 💡 **Explanation:** **Azure** Backup provides centralized backup management with point-in-time recovery for **VMs**, databases, and files. It's purpose-built for backup and restore scenarios.
 
----
+</details>
 
+
+</details>
 
 ---
 
@@ -1680,10 +1748,10 @@ C: Tags
 
 D: Multiple administrators
 
+<details>
+<summary>✅ Show Answer</summary>
 
----
-
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Management Groups organize multiple subscriptions hierarchically, allowing policies and access control to be applied at scale across all subscriptions.
 
@@ -1702,11 +1770,15 @@ C: Resource Locks
 D: Network Security Groups
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** **RBAC** controls authorization - who can perform what actions on which resources. It's the primary access control mechanism in **Azure**.
+
+</details>
 
 ---
 
@@ -1723,11 +1795,15 @@ C: Conditional Access
 D: Passwordless authentication
 
 
----
 
-✅ **Answer:** B
+<details>
+<summary>✅ Show Answer</summary>
+
+**Answer:** B
 
 💡 **Explanation:** **MFA** requires two or more verification factors (something you know + something you have/are). It significantly improves security for user accounts.
+
+</details>
 
 ---
 
@@ -1744,13 +1820,16 @@ C: Conditional Access
 D: **RBAC**
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **Azure** AD B2B (Business-to-Business) allows external partners to use their own credentials to access your resources without managing separate accounts for them.
 
----
+</details>
+
+</details>
 
 
 ---

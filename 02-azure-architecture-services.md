@@ -1251,13 +1251,15 @@ C: **VM** Scale Set
 D: Load Balancer
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Availability Zones protect against **datacenter**-level failures with physically separate datacenters. Availability Sets protect against failures within a single **datacenter**.
 
----
+</details>
+
 
 
 ---
@@ -1274,13 +1276,15 @@ C: GRS
 D: GZRS
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** GRS replicates data to a secondary **region** (6 copies total) protecting against regional disasters. GZRS also does this but costs more due to **zone** redundancy.
 
----
+</details>
+
 
 
 ---
@@ -1297,13 +1301,15 @@ C: **Azure** Virtual Machines
 D: **Azure** Kubernetes Service
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** **Azure** Functions is serverless and event-driven, perfect for responding to queue messages without managing infrastructure.
 
----
+</details>
+
 
 
 ---
@@ -1320,13 +1326,15 @@ C: **Azure** **ExpressRoute**
 D: Virtual Network Peering
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **ExpressRoute** provides a private, dedicated connection that doesn't traverse the public internet. **VPN Gateway** connections go over the internet (though encrypted).
 
----
+</details>
+
 
 
 ---
@@ -1343,13 +1351,15 @@ C: **RBAC**
 D: Network Security Group
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Conditional Access creates if/then policies based on signals like location. It can require **MFA** for access from outside the network.
 
----
+</details>
+
 
 
 ---
@@ -1366,13 +1376,15 @@ C: **Azure** **Cosmos DB**
 D: **Azure** Table Storage
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **Cosmos DB** is designed for global distribution with turnkey replication and low-latency access from any **region**.
 
----
+</details>
+
 
 
 ---
@@ -1389,13 +1401,15 @@ C: 3 or more
 D: Unlimited
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Availability **zone**-enabled regions have a minimum of 3 separate zones.
 
----
+</details>
+
 
 
 ---
@@ -1412,13 +1426,15 @@ C: **Azure** Functions
 D: App Service
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** **Azure** Functions is serverless - you only provide code, **Azure** manages everything else. **VMs** require the most management.
 
----
+</details>
+
 
 
 ---
@@ -1435,13 +1451,15 @@ C: **Azure** Data Box
 D: **Azure** File Sync
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** C
+**Answer:** C
 
 💡 **Explanation:** Data Box is a physical device for transferring massive amounts of data when network transfer isn't practical.
 
----
+</details>
+
 
 
 ---
@@ -1458,11 +1476,14 @@ C: Reader
 D: User Access Administrator
 
 
----
+<details>
+<summary>✅ Show Answer</summary>
 
-✅ **Answer:** B
+**Answer:** B
 
 💡 **Explanation:** Contributor can create and manage resources but cannot delegate access. Owner can do both. Reader can only view.
+
+</details>
 
 ---
 
