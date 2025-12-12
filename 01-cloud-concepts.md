@@ -88,24 +88,18 @@ The **shared responsibility model** defines which security and operational tasks
 
 ### Shared Responsibility by Service Model
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    Responsibility Matrix                     │
-├─────────────────────────┬──────────┬──────────┬─────────────┤
-│ Component               │   **SaaS**   │   **PaaS**   │    **IaaS**     │
-├─────────────────────────┼──────────┼──────────┼─────────────┤
-│ Information & Data      │ Customer │ Customer │  Customer   │
-│ Devices                 │ Customer │ Customer │  Customer   │
-│ Accounts & Identities   │ Customer │ Customer │  Customer   │
-│ Identity Infrastructure │ Shared   │ Shared   │  Customer   │
-│ Applications            │ Provider │ Shared   │  Customer   │
-│ Network Controls        │ Provider │ Shared   │  Customer   │
-│ Operating System        │ Provider │ Provider │  Customer   │
-│ Physical Hosts          │ Provider │ Provider │  Provider   │
-│ Physical Network        │ Provider │ Provider │  Provider   │
-│ Physical Datacenter     │ Provider │ Provider │  Provider   │
-└─────────────────────────┴──────────┴──────────┴─────────────┘
-```
+| Component | **SaaS** | **PaaS** | **IaaS** |
+|-----------|----------|----------|----------|
+| Information & Data | Customer | Customer | Customer |
+| Devices | Customer | Customer | Customer |
+| Accounts & Identities | Customer | Customer | Customer |
+| Identity Infrastructure | Shared | Shared | Customer |
+| Applications | Provider | Shared | Customer |
+| Network Controls | Provider | Shared | Customer |
+| Operating System | Provider | Provider | Customer |
+| Physical Hosts | Provider | Provider | Provider |
+| Physical Network | Provider | Provider | Provider |
+| Physical Datacenter | Provider | Provider | Provider |
 
 ### 🎯 Key Takeaways
 
